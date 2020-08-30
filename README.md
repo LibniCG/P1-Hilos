@@ -1,5 +1,4 @@
-# P1-Hilos
-# Autor: Libni Chamán
+# P1-Hilos. Autor: Libni Chamán
 
 Este programa realiza un ordenamiento de un arreglo de "n" tamaño por medio de "m" hilos y muestra el tiempo del proceso de ordenamiento. Donde "n" y "m" son números enteros definidos por el usuario y "m" debe ser menor o igual al número de hilos que la máquina tenga. 
 
