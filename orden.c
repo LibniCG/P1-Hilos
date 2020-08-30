@@ -22,7 +22,7 @@ int main(){
     int i, bandera = 0; 
 
     /* Obtener largo del arreglo */
-    printf("\n Largo del arreglo");
+    printf("\n Largo del arreglo: ");
     scanf("%d", &lim);
 
     /* Obtener el número de hilos que tiene la máquina */
